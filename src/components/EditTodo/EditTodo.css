@@ -1,0 +1,15 @@
+.EditTodo input {
+  font-size: 1.5rem;
+  margin-left: 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  font-family: "Long Cang", cursive;
+  width: 500px;
+  text-align: center;
+}
+
+.btn {
+  margin-left: 1rem;
+}

@@ -1,0 +1,30 @@
+.TodoForm {
+  margin: 30px 0;
+}
+
+.TodoForm label {
+  font-size: 2rem;
+  margin-right: 20px;
+}
+
+.TodoForm input {
+  font-size: 2rem;
+  margin-left: 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  font-family: "Long Cang", cursive;
+  width: 500px;
+  text-align: center;
+}
+
+.TodoForm input:focus {
+  outline: none;
+}
+
+.TodoForm button {
+  width: 100px;
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+}
